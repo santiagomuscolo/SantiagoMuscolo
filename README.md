@@ -1,7 +1,7 @@
 # Hello there 👋  
 
 **A Front-End Engineer by day ☼ and a UI/UX Enthusiast by night ☾**  
-Full Stack Dev / Tech Lead at Ingenia;  
+Software Engineer / Tech Lead at Ingenia;  
 
 ⚙️ I use daily: .ts, .js, .tsx, .html, .css
 </br>
